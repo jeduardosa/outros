@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="num_binario">Digite um número binário</string>
+    <string name="numDecimal">Decimal</string>
+    <string name="developer_by">Developer by</string>
+    <string name="j_eduardo">J. Eduardo</string>
+</resources>

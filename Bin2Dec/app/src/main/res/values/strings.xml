@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bin2Dec</string>
+    <string name="num_binario">Digite um número binário</string>
+    <string name="numDecimal">Decimal</string>
+    <string name="calcular">Calcular</string>
+    <string name="developer_by">Developer by</string>
+    <string name="j_eduardo">J. Eduardo</string>
+</resources>
